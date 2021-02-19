@@ -12,6 +12,13 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
+.center-block, .image-resize-mode {
+    width: 100px;
+}
+.firstTitle {
+    width: 60%;
+    margin: 25px auto;
+}
 
 a:hover {
     text-decoration: none;
